@@ -32,7 +32,6 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.android.bluetoothchat.R;
 import org.mv2a.android.common.logger.Log;
 
 import java.util.Set;

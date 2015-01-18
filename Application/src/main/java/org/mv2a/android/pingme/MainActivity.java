@@ -22,7 +22,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ViewAnimator;
 
-import com.example.android.bluetoothchat.R;
 import org.mv2a.android.common.activities.SampleActivityBase;
 import org.mv2a.android.common.logger.Log;
 import org.mv2a.android.common.logger.LogFragment;
