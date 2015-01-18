@@ -1,8 +1,10 @@
-Android BluetoothChat Sample
+PINGME
 ===================================
 
-This application allows two Android devices to carry out two-way text chat over
-Bluetooth. It demonstrates all the fundamental Bluetooth API capabilites, such as:
+This application allows two or more Android devices to discovery each other without 
+any authentication and carry out two-way text chat over Bluetooth. No network or Wifi required.
+It is based on the android-BluetoothChat Google sample and  demonstrates all the 
+fundamental Bluetooth API capabilites, such as:
 (1) Scanning for other Bluetooth devices
 (2) Querying the local Bluetooth adapter for paired Bluetooth devices
 (3) Establishing RFCOMM channels/sockets
